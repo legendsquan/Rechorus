@@ -15,7 +15,7 @@ pip install -r requirements.txt
 cd src
 ```
 Step 2.
-1. Open a new folder named my_models
+1. Open a new folder named "my_models"
 
 2. Put all python codes into the model
 ```bash
