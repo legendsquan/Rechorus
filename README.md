@@ -16,11 +16,13 @@ cd src
 ```
 Step 2.
 1.Open a new folder named my_models
+
 2.Put all python codes into the model
 ```bash
 cp -r ...
 ```
 3.copy Boost_main.py under main_py
+
 4. Run model with the build-in dataset
 
 ```bash
