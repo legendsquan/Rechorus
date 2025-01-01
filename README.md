@@ -21,7 +21,7 @@ Step 2.
 ```bash
 cp -r ...
 ```
-3.copy Boost_main.py under main_py
+3. copy Boost_main.py under main_py
 
 4. Run model with the build-in dataset
 
